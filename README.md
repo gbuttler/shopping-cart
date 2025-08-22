@@ -32,7 +32,7 @@
     - Total price
     - Fake pay button that gives hidden popup with funny message.
   - ALL HAVE:
-    - Dashboard (with logo, links to pages and checkout icon with updating quantity)
+    - Navbar (with logo, links to pages and checkout icon with updating quantity)
     - Footer with dummy links to FAQ, contact and find a store
 - Check for props errors
 - Test using vitest
