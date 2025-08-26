@@ -14,7 +14,7 @@
     - Company title
     - Catchy hook
     - Image of something to do with the store
-    - Button to take you to the shop
+    - Button to take you to the shop ✅
   - Shop page ✅
     - Cards for each individual item
       - Image ✅

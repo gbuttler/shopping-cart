@@ -1,6 +1,6 @@
 import Navbar from "../components/NavBar";
 import Footer from "../components/Footer";
-import Card from "../components/Card";
+import ShoppingCard from "../components/ShoppingCard";
 import { useState, useEffect } from "react";
 
 function ShoppingPage() {
@@ -13,7 +13,7 @@ function ShoppingPage() {
   }, []);
 
   const productItems = products.map((product) => (
-    <Card key={product.id} Item={product} />
+    <ShoppingCard key={product.id} Item={product} />
   ));
 
   return (
