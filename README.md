@@ -21,7 +21,7 @@
       - Name ✅
       - Description ✅
       - Price ✅
-      - Button to buy
+      - Button to buy ✅
       - Counter you can increase/decrease for more or less items
   - Checkout page ✅
     - List of all the items selected
