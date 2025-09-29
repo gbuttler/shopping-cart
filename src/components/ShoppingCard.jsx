@@ -1,6 +1,10 @@
 import ShoppingPage from "../webpages/ShoppingPage";
 
 function ShoppingCard({ Item }) {
+  function increaseAmount() {
+    console.log(`buy ${Item.title}`);
+  }
+
   return (
     <>
       <ul>
@@ -14,7 +18,7 @@ function ShoppingCard({ Item }) {
       <label>
         Quantity: <input value={0} type="number" />{" "}
       </label>
-      <button>Buy</button>
+      <button onClick={increaseAmount}>Buy</button>
     </>
   );
 }

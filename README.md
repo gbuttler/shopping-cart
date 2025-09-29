@@ -11,9 +11,9 @@
 - Create the new project ✅
 - Create a structure for the project and all of the components ✅
   - Homepage ✅
-    - Company title
-    - Catchy hook
-    - Image of something to do with the store
+    - Company title ✅
+    - Catchy hook ✅
+    - Image of something to do with the store ✅
     - Button to take you to the shop ✅
   - Shop page ✅
     - Cards for each individual item
