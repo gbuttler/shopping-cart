@@ -22,7 +22,7 @@
       - Description ✅
       - Price ✅
       - Button to buy ✅
-      - Counter you can increase/decrease for more or less items
+      - Counter you can increase/decrease for more or less items ✅
   - Checkout page ✅
     - List of all the items selected
       - Each item lists if it's 1 or more copies
